@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    229466,       4488]
-NotebookOptionsPosition[    224716,       4400]
-NotebookOutlinePosition[    225157,       4419]
-CellTagsIndexPosition[    225114,       4416]
+NotebookDataLength[    229384,       4470]
+NotebookOptionsPosition[    224594,       4382]
+NotebookOutlinePosition[    225075,       4401]
+CellTagsIndexPosition[    225032,       4398]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -33,7 +33,7 @@ Cell[TextData[{
   FontColor->RGBColor[
    0.1573052567330434, 0.15793087663080796`, 0.4541237506675822]],
  Cell[BoxData[
-  TemplateBox[{"\"http://georgemias.org\"","http://georgemias.org"},
+  TemplateBox[{"\"http://georgemias.org\"", "http://georgemias.org"},
    "HyperlinkURL"]], "Output",
   CellChangeTimes->{3.719919204810491*^9, 3.719919290636554*^9},
   FontFamily->"Source Code Pro",
@@ -181,7 +181,6 @@ Cell[BoxData[
     "Sources"}, Typeset`pod1$$ = XMLElement[
    "pod", {"title" -> "Input interpretation", "scanner" -> "Identity", "id" -> 
      "Input", "position" -> "100", "error" -> "false", "numsubpods" -> "1"}, {
-    
      XMLElement["subpod", {"title" -> ""}, {
        XMLElement["cell", {"compressed" -> False, "string" -> True}, {
          Cell[
@@ -315,12 +314,11 @@ MSPa37611dii9aahd6ida72h000033eii42ad2g67bc65181386928986290122", "version" ->
         Typeset`opts$$, Typeset`nonpods$$, Typeset`queryinfo$$, 
         Typeset`sessioninfo$$, Typeset`showpods$$, Typeset`failedpods$$, 
         Typeset`newq$$}]], StandardForm],
-    ImageSizeCache->{738., {153., 158.}},
+    ImageSizeCache->{736., {161., 167.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{Typeset`pod1$$, Typeset`pod2$$}], Typeset`asyncpods$$, 
        Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
      Typeset`initdone$$ = True],
@@ -377,7 +375,7 @@ Cell[BoxData[
       Dynamic[Typeset`assumptions$$], 
       Dynamic[Typeset`open$$], 
       Dynamic[Typeset`querystate$$]], StandardForm],
-    ImageSizeCache->{32., {7., 16.}},
+    ImageSizeCache->{32., {7., 18.}},
     TrackedSymbols:>{
      Typeset`query$$, Typeset`boxes$$, Typeset`allassumptions$$, 
       Typeset`assumptions$$, Typeset`open$$, Typeset`querystate$$}],
@@ -421,7 +419,6 @@ Cell[BoxData[
     "Sources"}, Typeset`pod1$$ = XMLElement[
    "pod", {"title" -> "Input interpretation", "scanner" -> "Identity", "id" -> 
      "Input", "position" -> "100", "error" -> "false", "numsubpods" -> "1"}, {
-    
      XMLElement["subpod", {"title" -> ""}, {
        XMLElement[
        "minput", {}, {
@@ -549,8 +546,9 @@ Cell[BoxData[
                     RGBColor[0.291989, 0.437977, 0.888609], 
                     InsetBox[
                     FormBox[
-                    StyleBox["\"N\"", FontSize -> Scaled[0.08150247797647808],
-                     FontWeight -> Plain, ScriptSizeMultipliers -> 0.8, 
+                    StyleBox[
+                    "\"N\"", FontSize -> Scaled[0.08150247797647808], 
+                    FontWeight -> Plain, ScriptSizeMultipliers -> 0.8, 
                     ScriptMinSize -> 8, FontFamily -> "Bitstream Vera Sans", 
                     StripOnInput -> False], TraditionalForm], {
                     286.6, -165.5}]}, {
@@ -865,7 +863,6 @@ Cell[BoxData[
                     104.61, -41.15}}]}}, {{
                     AbsoluteThickness[0.55], 
                     RGBColor[0.291989, 0.437977, 0.888609], 
-                    
                     LineBox[{{81.70542936602926, 54.54811944584134}, {
                     68.91499999999999, 61.935}}], 
                     RGBColor[0.4, 0.4, 0.4], 
@@ -874,6 +871,7 @@ Cell[BoxData[
                     82.55}}]}}, {{
                     AbsoluteThickness[0.55], 
                     RGBColor[0.291989, 0.437977, 0.888609], 
+                    
                     LineBox[{{127.51660469450536`, 54.54459683202723}, {
                     140.335, 61.94499999999999}}], 
                     RGBColor[
@@ -944,7 +942,6 @@ Cell[BoxData[
                     AbsoluteThickness[0.55], 
                     RGBColor[0.4, 0.4, 0.4], 
                     LineBox[{{-38.33, 41.32}, {-77.525, 54.07000000000001}}], 
-                    
                     RGBColor[0.291989, 0.437977, 0.888609], 
                     
                     LineBox[{{-77.525, 54.07000000000001}, {-91.5673427014057,
@@ -1097,7 +1094,6 @@ Cell[BoxData[
                     112.00000000000001`}]}}, {{{
                     AbsoluteThickness[0.55], 
                     RGBColor[0.800498, 0.201504, 0.192061], 
-                    
                     LineBox[{{{521.971861204623, -60.66363810890476}, {
                     500.60999999999996`, -48.33}}, {{
                     526.971861204623, -52.00363810890477}, {
@@ -1139,7 +1135,6 @@ Cell[BoxData[
                     AbsoluteThickness[0.55], 
                     RGBColor[0.291989, 0.437977, 0.888609], 
                     LineBox[{{373.21, -94.14899378536062}, {373.21, -100.}}], 
-                    
                     RGBColor[
                     0.43333333333333335`, 0.4666666666666667, 
                     0.4666666666666667], 
@@ -1296,6 +1291,7 @@ Cell[BoxData[
                     LineBox[{{71.35, -2.8400000000000034`}, {
                     71.35, -17.615000000000002`}}], 
                     RGBColor[0.4, 0.4, 0.4], 
+                    
                     LineBox[{{71.35, -17.615000000000002`}, {
                     71.35, -58.84}}]}}, {{
                     AbsoluteThickness[0.55], 
@@ -1484,12 +1480,11 @@ MSPa36141f64i6d0099fbdii0000228b568gcg66i8b01636597433810948718", "version" ->
         Typeset`opts$$, Typeset`nonpods$$, Typeset`queryinfo$$, 
         Typeset`sessioninfo$$, Typeset`showpods$$, Typeset`failedpods$$, 
         Typeset`newq$$}]], StandardForm],
-    ImageSizeCache->{738., {370., 376.}},
+    ImageSizeCache->{736., {374., 380.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{Typeset`pod1$$, Typeset`pod2$$}], Typeset`asyncpods$$, 
        Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
      Typeset`initdone$$ = True],
@@ -1532,7 +1527,6 @@ Cell[BoxData[
     "Sources"}, Typeset`pod1$$ = XMLElement[
    "pod", {"title" -> "Input interpretation", "scanner" -> "Identity", "id" -> 
      "Input", "position" -> "100", "error" -> "false", "numsubpods" -> "1"}, {
-    
      XMLElement["subpod", {"title" -> ""}, {
        XMLElement["cell", {"compressed" -> False, "string" -> True}, {
          Cell[
@@ -1704,8 +1698,8 @@ Cell[BoxData[
        XMLElement[
        "state", {
         "name" -> "Show details", "input" -> 
-         "GenomeSummary:SpeciesData__Show details"}, {}]}]}], 
-   Typeset`aux1$$ = {True, False, {False}, True}, Typeset`aux2$$ = {
+         "GenomeSummary:SpeciesData__Show details"}, {}]}]}], Typeset`aux1$$ =
+    {True, False, {False}, True}, Typeset`aux2$$ = {
    True, False, {False}, True}, Typeset`asyncpods$$ = {}, Typeset`nonpods$$ = {
     XMLElement["assumptions", {"count" -> "1"}, {
       XMLElement[
@@ -1755,12 +1749,11 @@ MSPa4591g38g1c8heg406hc000023a5ccbi0b8i80bg2376725253226070752", "version" ->
         Typeset`opts$$, Typeset`nonpods$$, Typeset`queryinfo$$, 
         Typeset`sessioninfo$$, Typeset`showpods$$, Typeset`failedpods$$, 
         Typeset`newq$$}]], StandardForm],
-    ImageSizeCache->{738., {168., 174.}},
+    ImageSizeCache->{736., {176., 182.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{Typeset`pod1$$, Typeset`pod2$$}], Typeset`asyncpods$$, 
        Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
      Typeset`initdone$$ = True],
@@ -1831,12 +1824,11 @@ ${desc2}.", "count" -> "2"}, {
         Typeset`q$$, Typeset`opts$$, Typeset`nonpods$$, Typeset`queryinfo$$, 
         Typeset`sessioninfo$$, Typeset`showpods$$, Typeset`failedpods$$, 
         Typeset`newq$$}]], StandardForm],
-    ImageSizeCache->{738., {196., 201.}},
+    ImageSizeCache->{736., {221., 227.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{}], Typeset`asyncpods$$, 
        Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
      Typeset`initdone$$ = True],
@@ -1872,7 +1864,6 @@ Cell[BoxData[
     "Sources"}, Typeset`pod1$$ = XMLElement[
    "pod", {"title" -> "Input interpretation", "scanner" -> "Identity", "id" -> 
      "Input", "position" -> "100", "error" -> "false", "numsubpods" -> "1"}, {
-    
      XMLElement["subpod", {"title" -> ""}, {
        XMLElement["minput", {}, {"Entity[\"Chemical\", \"Uracil\"]"}], 
        XMLElement["cell", {"compressed" -> False, "string" -> True}, {
@@ -2044,7 +2035,6 @@ EntityProperty[\"Chemical\", \"BoilingPoint\"], EntityProperty[\"Chemical\", \
                     Smaller], "\[InvisibleSpace]", "\[ThickSpace]", 
                     "\[InvisibleSpace]", 
                     StyleBox[
-                    
                     RowBox[{
                     "\"g\"", "\[InvisibleSpace]", "\"/\"", 
                     "\[InvisibleSpace]", "\"mol\""}], FontFamily -> 
@@ -2505,7 +2495,6 @@ quantitydata"}]}],
        XMLElement[
        "dataformats", {}, {
         "plaintext,computabledata,formatteddata,numberdata,quantitydata"}]}], 
-     
      XMLElement["infos", {"count" -> "1"}, {
        XMLElement["info", {}, {
          XMLElement["units", {"count" -> "1"}, {
@@ -2624,6 +2613,7 @@ quantitydata"}]}],
                     
                     RowBox[{"\"J\"", "\[InvisibleSpace]", "\"/\"", 
                     "\[InvisibleSpace]", 
+                    
                     RowBox[{"\"(\"", "\[InvisibleSpace]", "\"g\"", 
                     "\[InvisibleSpace]", "\"\[ThinSpace]\"", 
                     "\[InvisibleSpace]", "\"K\"", "\[InvisibleSpace]", 
@@ -2758,7 +2748,6 @@ quantitydata"}]}],
        XMLElement[
        "dataformats", {}, {
         "plaintext,computabledata,formatteddata,numberdata,quantitydata"}]}], 
-     
      XMLElement["states", {"count" -> "1"}, {
        XMLElement[
        "state", {
@@ -2773,7 +2762,6 @@ quantitydata"}]}],
              "joules per gram kelvin difference"}, {}], 
            XMLElement[
            "unit", {"short" -> "kJ/g", "long" -> "kilojoules per gram"}, {}], 
-           
            XMLElement["cell", {"compressed" -> False, "string" -> True}, {
              Cell[
               BoxData[
@@ -3124,12 +3112,11 @@ MSPa35671cfe25h0d5fe1a7e00003c61ddb90ia7853h2546337270794351225", "version" ->
         Typeset`opts$$, Typeset`nonpods$$, Typeset`queryinfo$$, 
         Typeset`sessioninfo$$, Typeset`showpods$$, Typeset`failedpods$$, 
         Typeset`newq$$}]], StandardForm],
-    ImageSizeCache->{738., {608., 614.}},
+    ImageSizeCache->{850., {638., 644.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{
         Typeset`pod1$$, Typeset`pod2$$, Typeset`pod3$$, Typeset`pod4$$, 
          Typeset`pod5$$, Typeset`pod6$$, Typeset`pod7$$, Typeset`pod8$$}], 
@@ -3187,7 +3174,6 @@ Cell[BoxData[
     "Sources"}, Typeset`pod1$$ = XMLElement[
    "pod", {"title" -> "Input interpretation", "scanner" -> "Identity", "id" -> 
      "Input", "position" -> "100", "error" -> "false", "numsubpods" -> "1"}, {
-    
      XMLElement["subpod", {"title" -> ""}, {
        XMLElement["minput", {}, {"GenomeData[\"Chromosome1\"]"}], 
        XMLElement["cell", {"compressed" -> False, "string" -> True}, {
@@ -3769,12 +3755,11 @@ MSPa5231g38g1c8heg406hc00006532g6f5c70895982376725253226070752", "version" ->
         Typeset`nonpods$$, Typeset`queryinfo$$, Typeset`sessioninfo$$, 
         Typeset`showpods$$, Typeset`failedpods$$, Typeset`newq$$}]], 
      StandardForm],
-    ImageSizeCache->{738., {120., 126.}},
+    ImageSizeCache->{850., {125., 131.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{Typeset`pod1$$, Typeset`pod2$$, Typeset`pod3$$}], 
        Typeset`asyncpods$$, 
        Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
@@ -3811,7 +3796,6 @@ Cell[BoxData[
     "Sources"}, Typeset`pod1$$ = XMLElement[
    "pod", {"title" -> "Input interpretation", "scanner" -> "Identity", "id" -> 
      "Input", "position" -> "100", "error" -> "false", "numsubpods" -> "1"}, {
-    
      XMLElement["subpod", {"title" -> ""}, {
        XMLElement["minput", {}, {"GenomeData[\"ChromosomeX\"]"}], 
        XMLElement["cell", {"compressed" -> False, "string" -> True}, {
@@ -4297,12 +4281,11 @@ MSPa264612h331ecce6i6c8a00003b35hb945f4876a05186426821976139686", "version" ->
         Typeset`nonpods$$, Typeset`queryinfo$$, Typeset`sessioninfo$$, 
         Typeset`showpods$$, Typeset`failedpods$$, Typeset`newq$$}]], 
      StandardForm],
-    ImageSizeCache->{738., {120., 126.}},
+    ImageSizeCache->{850., {125., 131.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{Typeset`pod1$$, Typeset`pod2$$, Typeset`pod3$$}], 
        Typeset`asyncpods$$, 
        Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
@@ -4359,12 +4342,11 @@ Cell[BoxData[
         Typeset`q$$, Typeset`opts$$, Typeset`nonpods$$, Typeset`queryinfo$$, 
         Typeset`sessioninfo$$, Typeset`showpods$$, Typeset`failedpods$$, 
         Typeset`newq$$}]], StandardForm],
-    ImageSizeCache->{738., {166., 171.}},
+    ImageSizeCache->{850., {189., 195.}},
     TrackedSymbols:>{Typeset`showpods$$, Typeset`failedpods$$}],
    DynamicModuleValues:>{},
    Initialization:>If[
-     Not[Typeset`initdone$$], Null; 
-     WolframAlphaClient`Private`doAsyncUpdates[
+     Not[Typeset`initdone$$], Null; WolframAlphaClient`Private`doAsyncUpdates[
        Hold[{}], Typeset`asyncpods$$, 
        Dynamic[Typeset`failedpods$$]]; Typeset`asyncpods$$ = {}; 
      Typeset`initdone$$ = True],
@@ -4399,13 +4381,13 @@ Cell[BoxData[
 }, Open  ]]
 },
 WindowToolbars->"EditBar",
-WindowSize->{826, 1152},
-WindowMargins->{{Automatic, 479}, {Automatic, 0}},
+WindowSize->{940, 1152},
+WindowMargins->{{Automatic, 365}, {Automatic, 0}},
 PrintingCopies->1,
 PrintingPageRange->{1, Automatic},
-FrontEndVersion->"11.2 for Mac OS X x86 (32-bit, 64-bit Kernel) (September \
-10, 2017)",
-StyleDefinitions->"Default.nb"
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (March 14, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"6b7a09ba-4f7e-455b-8d7f-2ade68895c4e"
 ]
 (* End of Notebook Content *)
 
@@ -4419,74 +4401,74 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 414, 6, 98, "Title",ExpressionUUID->"8fce1eb3-3baf-4d7c-8a22-51601254c34a"],
-Cell[997, 30, 696, 15, 71, "Text",ExpressionUUID->"8bf39aff-c1cd-4703-a4e0-7331c05c1135"],
+Cell[580, 22, 414, 6, 96, "Title",ExpressionUUID->"8fce1eb3-3baf-4d7c-8a22-51601254c34a"],
+Cell[997, 30, 697, 15, 69, "Text",ExpressionUUID->"8bf39aff-c1cd-4703-a4e0-7331c05c1135"],
 Cell[CellGroupData[{
-Cell[1718, 49, 480, 7, 117, "Chapter",ExpressionUUID->"ee101586-1e20-47e9-8e2d-aa6489d0781f"],
+Cell[1719, 49, 480, 7, 113, "Chapter",ExpressionUUID->"ee101586-1e20-47e9-8e2d-aa6489d0781f"],
 Cell[CellGroupData[{
-Cell[2223, 60, 210, 4, 67, "Section",ExpressionUUID->"4fe8dba8-d822-42dc-9733-6a2e5c0a7c4a"],
-Cell[2436, 66, 1525, 27, 311, "Text",ExpressionUUID->"8bba13dc-b1f3-43bd-bc90-7e31a32f6998"],
-Cell[3964, 95, 631, 12, 127, "Text",ExpressionUUID->"1c4f6601-265a-4b80-9283-0636c2c4d8cb"],
+Cell[2224, 60, 210, 4, 67, "Section",ExpressionUUID->"4fe8dba8-d822-42dc-9733-6a2e5c0a7c4a"],
+Cell[2437, 66, 1525, 27, 298, "Text",ExpressionUUID->"8bba13dc-b1f3-43bd-bc90-7e31a32f6998"],
+Cell[3965, 95, 631, 12, 122, "Text",ExpressionUUID->"1c4f6601-265a-4b80-9283-0636c2c4d8cb"],
 Cell[CellGroupData[{
-Cell[4620, 111, 175, 4, 30, "Input",ExpressionUUID->"272ee073-15b9-4b5e-9b0d-873dc59de1bf"],
-Cell[4798, 117, 245, 4, 34, "Output",ExpressionUUID->"a136b6c6-8dcd-43be-a9c2-122103dc479b"]
+Cell[4621, 111, 175, 4, 28, "Input",ExpressionUUID->"272ee073-15b9-4b5e-9b0d-873dc59de1bf"],
+Cell[4799, 117, 245, 4, 32, "Output",ExpressionUUID->"a136b6c6-8dcd-43be-a9c2-122103dc479b"]
 }, Open  ]],
-Cell[5058, 124, 466, 8, 81, "Text",ExpressionUUID->"2e41a1c2-6a0b-407b-a736-477d5f7d1a29"],
+Cell[5059, 124, 466, 8, 78, "Text",ExpressionUUID->"2e41a1c2-6a0b-407b-a736-477d5f7d1a29"],
 Cell[CellGroupData[{
-Cell[5549, 136, 307, 6, 53, "Item",ExpressionUUID->"43798866-8917-468e-a728-b5b368d5f597"],
-Cell[5859, 144, 236, 6, 32, "Item",ExpressionUUID->"adc15831-829f-4080-9bb6-b385e1d1fbb9"],
-Cell[6098, 152, 285, 6, 53, "Item",ExpressionUUID->"3fa9b1fc-c73f-45e4-b82c-fc18b1feacba"]
+Cell[5550, 136, 307, 6, 51, "Item",ExpressionUUID->"43798866-8917-468e-a728-b5b368d5f597"],
+Cell[5860, 144, 236, 6, 31, "Item",ExpressionUUID->"adc15831-829f-4080-9bb6-b385e1d1fbb9"],
+Cell[6099, 152, 285, 6, 51, "Item",ExpressionUUID->"3fa9b1fc-c73f-45e4-b82c-fc18b1feacba"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6420, 163, 221, 4, 41, "WolframAlphaLong",ExpressionUUID->"acb82f59-2055-446a-b438-57c131615126"],
-Cell[6644, 169, 8413, 164, 321, "Print",ExpressionUUID->"81c46f6f-2579-4841-a385-0ed9d3e197c4"]
+Cell[6421, 163, 221, 4, 44, "WolframAlphaLong",ExpressionUUID->"acb82f59-2055-446a-b438-57c131615126"],
+Cell[6645, 169, 8402, 162, 338, "Print",ExpressionUUID->"81c46f6f-2579-4841-a385-0ed9d3e197c4"]
 }, Open  ]],
-Cell[15072, 336, 267, 4, 32, "Item",ExpressionUUID->"09adf76a-987d-40d1-9ac8-e105be0f1afa"],
-Cell[15342, 342, 133, 3, 34, "WolframAlphaShort",ExpressionUUID->"bb6e1655-3b73-4887-9456-1199e34faeb1"],
-Cell[15478, 347, 260, 4, 32, "Item",ExpressionUUID->"1a18b631-8a27-4ee6-b9fb-e65d2ccf3513"],
-Cell[15741, 353, 132, 3, 41, "WolframAlphaLong",ExpressionUUID->"4a03dff9-161d-46d6-95f5-68754ff02a80"],
-Cell[15876, 358, 226, 4, 32, "Item",ExpressionUUID->"103c3c10-95ee-4bdf-a773-a55310dc4fb1"],
-Cell[16105, 364, 1189, 27, 38, "Input",ExpressionUUID->"7fbab6cd-a95e-43e8-8730-c7bd1df11092"],
-Cell[17297, 393, 213, 5, 35, "Text",ExpressionUUID->"356788d9-0554-461e-8101-52328fb88564"],
+Cell[15062, 334, 267, 4, 31, "Item",ExpressionUUID->"09adf76a-987d-40d1-9ac8-e105be0f1afa"],
+Cell[15332, 340, 133, 3, 34, "WolframAlphaShort",ExpressionUUID->"bb6e1655-3b73-4887-9456-1199e34faeb1"],
+Cell[15468, 345, 260, 4, 31, "Item",ExpressionUUID->"1a18b631-8a27-4ee6-b9fb-e65d2ccf3513"],
+Cell[15731, 351, 132, 3, 44, "WolframAlphaLong",ExpressionUUID->"4a03dff9-161d-46d6-95f5-68754ff02a80"],
+Cell[15866, 356, 226, 4, 31, "Item",ExpressionUUID->"103c3c10-95ee-4bdf-a773-a55310dc4fb1"],
+Cell[16095, 362, 1189, 27, 40, "Input",ExpressionUUID->"7fbab6cd-a95e-43e8-8730-c7bd1df11092"],
+Cell[17287, 391, 213, 5, 34, "Text",ExpressionUUID->"356788d9-0554-461e-8101-52328fb88564"],
 Cell[CellGroupData[{
-Cell[17535, 402, 278, 4, 41, "WolframAlphaLong",ExpressionUUID->"3973a80d-a0be-4d62-91f4-eeff513b2c44"],
-Cell[17816, 408, 55293, 1094, 756, "Print",ExpressionUUID->"114a6bb5-9be5-40d5-862c-a29f30c7ca3b"]
+Cell[17525, 400, 278, 4, 44, "WolframAlphaLong",ExpressionUUID->"3973a80d-a0be-4d62-91f4-eeff513b2c44"],
+Cell[17806, 406, 55261, 1091, 764, "Print",ExpressionUUID->"114a6bb5-9be5-40d5-862c-a29f30c7ca3b"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[73158, 1508, 186, 3, 67, "Section",ExpressionUUID->"d2094de9-c00e-4ffc-9474-3fac2b95c5be"],
+Cell[73116, 1503, 186, 3, 67, "Section",ExpressionUUID->"d2094de9-c00e-4ffc-9474-3fac2b95c5be"],
 Cell[CellGroupData[{
-Cell[73369, 1515, 166, 3, 41, "WolframAlphaLong",ExpressionUUID->"c255643c-34e1-4098-810b-25b793a730ec"],
-Cell[73538, 1520, 12563, 253, 352, "Print",ExpressionUUID->"00d772a4-2790-44e4-8ef2-4b89016c0f81"]
+Cell[73327, 1510, 166, 3, 44, "WolframAlphaLong",ExpressionUUID->"c255643c-34e1-4098-810b-25b793a730ec"],
+Cell[73496, 1515, 12552, 251, 368, "Print",ExpressionUUID->"00d772a4-2790-44e4-8ef2-4b89016c0f81"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[86138, 1778, 168, 3, 41, "WolframAlphaLong",ExpressionUUID->"dcdcf326-1f78-4189-82a9-92363f23812a"],
-Cell[86309, 1783, 3194, 66, 407, "Print",ExpressionUUID->"963938c8-8e72-4deb-a35d-68f9e8db810a"]
+Cell[86085, 1771, 168, 3, 44, "WolframAlphaLong",ExpressionUUID->"dcdcf326-1f78-4189-82a9-92363f23812a"],
+Cell[86256, 1776, 3188, 65, 458, "Print",ExpressionUUID->"963938c8-8e72-4deb-a35d-68f9e8db810a"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[89540, 1854, 211, 4, 41, "WolframAlphaLong",ExpressionUUID->"adc9b8c8-1211-4085-857c-d17da5a680c6"],
-Cell[89754, 1860, 63641, 1285, 1232, "Print",ExpressionUUID->"9e643f09-5550-4628-b12a-fa21598e0ecc"]
+Cell[89481, 1846, 211, 4, 44, "WolframAlphaLong",ExpressionUUID->"adc9b8c8-1211-4085-857c-d17da5a680c6"],
+Cell[89695, 1852, 63606, 1280, 1292, "Print",ExpressionUUID->"9e643f09-5550-4628-b12a-fa21598e0ecc"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[153432, 3150, 290, 6, 30, "Input",ExpressionUUID->"ffff4d8d-4bd5-4758-8dc7-4bba0ad26bca"],
-Cell[153725, 3158, 361, 8, 34, "Output",ExpressionUUID->"e3328147-e927-4268-b24c-67f4b0d81d7d"]
+Cell[153338, 3137, 290, 6, 28, "Input",ExpressionUUID->"ffff4d8d-4bd5-4758-8dc7-4bba0ad26bca"],
+Cell[153631, 3145, 361, 8, 32, "Output",ExpressionUUID->"e3328147-e927-4268-b24c-67f4b0d81d7d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[154123, 3171, 186, 2, 41, "WolframAlphaLong",ExpressionUUID->"b6fbaee0-319a-49c3-9c04-b9e570826a29"],
-Cell[154312, 3175, 36613, 613, 256, "Print",ExpressionUUID->"3b8647a5-66ea-4834-a8cb-760a58699ae1"]
+Cell[154029, 3158, 186, 2, 44, "WolframAlphaLong",ExpressionUUID->"b6fbaee0-319a-49c3-9c04-b9e570826a29"],
+Cell[154218, 3162, 36602, 611, 266, "Print",ExpressionUUID->"3b8647a5-66ea-4834-a8cb-760a58699ae1"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[190962, 3793, 251, 3, 41, "WolframAlphaLong",ExpressionUUID->"8c1a17dd-1e40-42e7-b054-409899df3707"],
-Cell[191216, 3798, 30070, 518, 256, "Print",ExpressionUUID->"7c8cf1b6-7f9c-4351-9be5-08646ab0d3bf"]
+Cell[190857, 3778, 251, 3, 44, "WolframAlphaLong",ExpressionUUID->"8c1a17dd-1e40-42e7-b054-409899df3707"],
+Cell[191111, 3783, 30059, 516, 266, "Print",ExpressionUUID->"7c8cf1b6-7f9c-4351-9be5-08646ab0d3bf"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[221323, 4321, 239, 3, 41, "WolframAlphaLong",ExpressionUUID->"57e9bfba-0964-45d0-857d-ff397c534e0e"],
-Cell[221565, 4326, 2567, 51, 347, "Print",ExpressionUUID->"4a235c96-0136-40c5-a326-f1847f962674"]
+Cell[221207, 4304, 239, 3, 44, "WolframAlphaLong",ExpressionUUID->"57e9bfba-0964-45d0-857d-ff397c534e0e"],
+Cell[221449, 4309, 2561, 50, 394, "Print",ExpressionUUID->"4a235c96-0136-40c5-a326-f1847f962674"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[224181, 4383, 177, 3, 67, "Section",ExpressionUUID->"c3d68d01-a4ba-4317-8aff-dd540925d720"],
-Cell[224361, 4388, 315, 7, 30, "Input",ExpressionUUID->"d1b5268d-4e92-4e8b-87c1-8f57034412b4"]
+Cell[224059, 4365, 177, 3, 67, "Section",ExpressionUUID->"c3d68d01-a4ba-4317-8aff-dd540925d720"],
+Cell[224239, 4370, 315, 7, 28, "Input",ExpressionUUID->"d1b5268d-4e92-4e8b-87c1-8f57034412b4"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
